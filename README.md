@@ -28,7 +28,7 @@ This project explores the relationship between vehicle characteristics and CO2 e
 
 The model explains approximately **98.9% of the variance** in CO2 emissions, indicating excellent predictive performance.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -36,5 +36,5 @@ The model explains approximately **98.9% of the variance** in CO2 emissions, ind
 - Seaborn
 - Scikit-learn
 
-## 👨‍💻 Author
+## Author
 Obli Karthi M
